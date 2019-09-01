@@ -3,7 +3,7 @@
 
 ## About
 
-This project is developed as a solution for a problem statement in Codeshastra 5.0 (Round 1) 24 hrs. Hackathon, in which detection of fraudulent claims is done based on various parameters. Used Decision Tree Classifier to train our model and then predicted claims which resulted in around 80% accurate predictions.
+This project is developed as a solution for a problem statement in Codeshastra 5.0 (Round 1) 24 hrs Hackathon, in which detection of fraudulent claims is done based on various parameters. Used Decision Tree Classifier to train our model and then predicted claims which resulted in around 80% accurate predictions.
 
 
 
@@ -35,10 +35,11 @@ This project is developed as a solution for a problem statement in Codeshastra 5
 - **Backend**
     - Django
     - Scikit Learn
+    
 
 - **Frontend**
     - App : Android
-    - Web : Bootstrap, Charts.js
+    - Web : Bootstrap, Charts.js,Html,Css,Javascript.
 
 
 ## Contributors
